@@ -1,16 +1,39 @@
-# home4paws
+# 🐾 Home4Paws (Mobile Application)
 
-A new Flutter project.
+**Home4Paws** คือแอปพลิเคชันมือถือสำหรับเป็นสื่อกลางในการหาบ้านให้กับสัตว์เลี้ยง (Pet Adoption Platform) เพื่อช่วยลดปัญหาสัตว์จรจัดและเพิ่มโอกาสให้น้องๆ ได้เจอกับเจ้าของที่พร้อมดูแล
 
-## Getting Started
+📌 **Project Status:** Senior Project (Information Technology, Maejo University)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features (ฟีเจอร์หลัก)
+แอปพลิเคชันแบ่งการทำงานเป็น 2 ส่วนหลักสำหรับ **Adopter (ผู้ขอเลี้ยง)** และ **Owner (ผู้ส่งต่อสัตว์เลี้ยง)**:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **User Authentication:** ระบบสมัครสมาชิกและเข้าสู่ระบบ
+* **Pet Listing:** ค้นหาและดูรายละเอียดสัตว์เลี้ยงที่หาบ้าน
+* **Post for Adoption:** ลงประกาศหาบ้านให้น้องแมว/สุนัข (พร้อมระบุรายละเอียดและรูปภาพ)
+* **Adoption Requests:** ระบบส่งคำขอรับเลี้ยงและตรวจสอบสถานะ
+* **Notification:** แจ้งเตือนสถานะการรับเลี้ยง
+* **Profile Management:** จัดการข้อมูลส่วนตัวและประวัติการใช้งาน
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+* **Framework:** [Flutter](https://flutter.dev/) (Dart)
+* **Architecture:** MVC Pattern
+* **Backend API:** Spring Boot (Java)
+
+---
+
+## 🔗 Related Repository
+โปรเจ็คนี้ทำงานร่วมกับ Backend Service สามารถดู Source Code ส่วนหลังบ้านได้ที่:
+👉 **Backend Repository:** [https://github.com/Lulixxy/home4paws-backend](https://github.com/Lulixxy/home4paws-backend)
+*(อย่าลืมเช็คลิงก์นี้ให้ตรงกับ Repo หลังบ้านที่สร้างไว้นะคะ)*
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/Lulixxy/home4paws-mobile.git](https://github.com/Lulixxy/home4paws-mobile.git)
