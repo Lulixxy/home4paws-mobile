@@ -56,8 +56,34 @@
 
 ---
 
+## 📸 App Screenshots
+
+| 🔐 Login Page | 🏠 Home Page | 🐾 Pet Detail |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c3bf57fc-bdd1-4b75-b677-69ee739c32a5" width="250" /> | <img src="https://github.com/user-attachments/assets/be10b029-cfaa-4b87-a9fa-e688f7bf2e31" width="250" /> | <img src="https://github.com/user-attachments/assets/ded3cfcd-693d-4432-aef2-3f03660bba91" width="250" /> |
+
+---
+
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/Lulixxy/home4paws-mobile.git](https://github.com/Lulixxy/home4paws-mobile.git)
+   
+2. **Install dependencies**
+
+   ```Bash
+   cd home4paws-mobile
+   flutter pub get
+
+3. **Run the App**
+
+   ```Bash
+   flutter run
+
+---
+
+## 👩‍💻 Author
+**Kulissara S. (Lulixxy)**
+
+Github: [Lulixxy](https://github.com/Lulixxy)
